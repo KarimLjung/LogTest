@@ -1,0 +1,3 @@
+Z:\Desktop\LogTest\LogComponentTest\obj\Debug\LogComponentTestx.csprojResolveAssemblyReference.cache
+Z:\Desktop\LogTest\LogComponentTest\obj\Debug\LogComponentTest.dll
+Z:\Desktop\LogTest\LogComponentTest\obj\Debug\LogComponentTest.pdb

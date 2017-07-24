@@ -1,0 +1,34 @@
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.runner.utility.desktop.dll
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.abstractions.dll
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.execution.desktop.dll
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\LogTest.dll
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.assert.dll
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.core.dll
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\LogTest.pdb
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.assert.pdb
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.assert.xml
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.core.pdb
+Z:\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.core.xml
+Z:\Desktop\LogTest\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+Z:\Desktop\LogTest\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+Z:\Desktop\LogTest\UnitTestProject2\obj\Debug\LogComponentTests.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.runner.utility.desktop.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.abstractions.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.execution.desktop.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\LogTest.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.assert.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.core.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\LogTest.pdb
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.assert.pdb
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.assert.xml
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.core.pdb
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\bin\Debug\xunit.core.xml
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\obj\Debug\LogComponentTests.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

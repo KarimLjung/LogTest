@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\Desktop\LogTest\LogTest\bin\Debug\LogTest.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\LogTest\bin\Debug\LogTest.pdb
+\\vmware-host\Shared Folders\Desktop\LogTest\LogTest\obj\Debug\LogComponent.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\LogTest\LogTest\obj\Debug\LogTest.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\LogTest\obj\Debug\LogTest.pdb
+Z:\Desktop\LogTest\LogTest\bin\Debug\LogTest.dll
+Z:\Desktop\LogTest\LogTest\bin\Debug\LogTest.pdb
+Z:\Desktop\LogTest\LogTest\obj\Debug\LogTest.dll
+Z:\Desktop\LogTest\LogTest\obj\Debug\LogTest.pdb
+Z:\Desktop\LogTest\LogTest\obj\Debug\LogComponent.csprojResolveAssemblyReference.cache

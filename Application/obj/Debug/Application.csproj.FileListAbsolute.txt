@@ -1,0 +1,16 @@
+\\vmware-host\Shared Folders\Desktop\LogTest\Application\bin\Debug\LogUsers.exe.config
+\\vmware-host\Shared Folders\Desktop\LogTest\Application\bin\Debug\LogUsers.exe
+\\vmware-host\Shared Folders\Desktop\LogTest\Application\bin\Debug\LogUsers.pdb
+\\vmware-host\Shared Folders\Desktop\LogTest\Application\bin\Debug\LogTest.dll
+\\vmware-host\Shared Folders\Desktop\LogTest\Application\bin\Debug\LogTest.pdb
+\\vmware-host\Shared Folders\Desktop\LogTest\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\LogTest\Application\obj\Debug\LogUsers.exe
+\\vmware-host\Shared Folders\Desktop\LogTest\Application\obj\Debug\LogUsers.pdb
+Z:\Desktop\LogTest\Application\bin\Debug\LogUsers.exe.config
+Z:\Desktop\LogTest\Application\bin\Debug\LogUsers.exe
+Z:\Desktop\LogTest\Application\bin\Debug\LogUsers.pdb
+Z:\Desktop\LogTest\Application\bin\Debug\LogTest.dll
+Z:\Desktop\LogTest\Application\bin\Debug\LogTest.pdb
+Z:\Desktop\LogTest\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+Z:\Desktop\LogTest\Application\obj\Debug\LogUsers.exe
+Z:\Desktop\LogTest\Application\obj\Debug\LogUsers.pdb
