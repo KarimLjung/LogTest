@@ -17,6 +17,7 @@ namespace LogUsers
         {
 
             //CreateAsyncLog();
+            Console.WriteLine("Hello log");
             Console.ReadLine();
         }
 
